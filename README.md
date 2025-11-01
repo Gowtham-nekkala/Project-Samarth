@@ -124,5 +124,7 @@ This project is open-source and released under the MIT License.
 💬 Author
 
 Gowtham
+
 Email: nekkalagowtham1801@gmail.com
+
 Project: AI-Driven Crop and Climate Data Analysis – Project Samarth
